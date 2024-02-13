@@ -2,3 +2,4 @@
 hi all how are you? 
 how you are doing
 im updated from github remote brnach 
+im also updated from ashokit batch and my puepose is to show git fetch command usage
